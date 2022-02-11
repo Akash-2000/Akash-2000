@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Akash
-- 👀 I’m interested in Data science and Data analytics
-- 🌱 I’m currently learning python,pandas,numpy,supervised and unsupervised machine learning algorithims
-- 💞️ I’m making myself into a data scientist by self learning
+- 👀 I’m interested in Blockchain and python
+- 🌱 I’m currently learning solidity and planned to learn more to become web 3.0 developer
+- 💞️ I’m making myself into a web3.0 developer by self learning
 - 📫 How to reach me  you can reach me soon please wait
 
 <!---
