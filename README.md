@@ -3,6 +3,7 @@
 </p>
 
 # Hello people <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Akash!</h2>
+- 💼 Check out [My Portfolio](https://akashmyportfolio.netlify.app/)
 - 🔭 My Aim is to learn WEB3 devlopment and want to develop a decentralized community
 - 🌱 I’m currently learing Full Stack devlopment and looking a for a entry level devloper job.
 - 👯 I’m looking to collaborate on devlopers who have same ideology like me. 
