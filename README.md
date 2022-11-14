@@ -29,7 +29,6 @@
 <br/>
 
 ## Github Overview
-[<img align="left" height="200" src="https://github-readme-stats.vercel.app/api?username=Akash-2000&theme=dracula"/>](https://github.com/anuraghazra/github-readme-stats)
 [<img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-2000&theme=dracula&range=last_7_days"/>](https://github.com/anuraghazra/github-readme-stats).
 
 
