@@ -23,3 +23,5 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 <br/>
+
+![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=Akash-2000&repo=EdUcational-website&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2)
