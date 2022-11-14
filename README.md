@@ -2,9 +2,13 @@
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
 </p>
 
-## Hello people <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Akash!</h2>
+# Hello people <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Akash!</h2>
+- 🔭 My Aim is to learn WEB3 devlopment and want to develop a decentralized community
+- 🌱 I’m currently learing Full Stack devlopment and looking a for a entry level devloper job.
+- 👯 I’m looking to collaborate on devlopers who have same ideology like me. 
+- 💬 Ask me about doubts on javascript,react,node and mongodb.
 
-<h3> 🛠 &nbsp;Tech Tools I Used</h3>
+ ## Tech Tools I Used 🛠;
 
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
@@ -24,4 +28,12 @@
 
 <br/>
 
-![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=Akash-2000&repo=EdUcational-website&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2)
+## Github Overview
+[<img align="left" height="200" src="https://github-readme-stats.vercel.app/api?username=Akash-2000&theme=dracula"/>](https://github.com/anuraghazra/github-readme-stats)
+[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-2000&theme=dracula&range=last_7_days"/>](https://github.com/anuraghazra/github-readme-stats).
+
+## Connect with me
+
+
+
+
