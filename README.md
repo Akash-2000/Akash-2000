@@ -2,6 +2,7 @@
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
 </p>
 
+## Hello people <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Akash!</h2>
 
 <h3> 🛠 &nbsp;Tech Tools I Used</h3>
 
