@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
+</p>
+
+
 - 👋 Hi, I’m @Akash
 - 👀 I’m interested in Blockchain and python
 - 🌱 I’m currently learning solidity and planned to learn more to become web 3.0 developer
