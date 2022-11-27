@@ -35,7 +35,7 @@
 
 ## Github Overview
 [<img  width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-2000&theme=dracula&range=last_7_days"/>](https://github.com/anuraghazra/github-readme-stats).
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akash-2000)](https://github.com/anuraghazra/github-readme-stats)
 ## Connect with me📪
 - [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akashpoovan983@gmail.com)
 - [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akashpoovandatascience)
