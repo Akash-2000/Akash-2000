@@ -8,6 +8,7 @@
 - 🌱 I’m currently learing Full Stack devlopment and looking a for a entry level devloper job.
 - 👯 I’m looking to collaborate on devlopers who have same ideology like me. 
 - 💬 Ask me about doubts on javascript,react,node and mongodb.
+- 💼 My [Resume](https://drive.google.com/file/d/1JkRpdjIfvKze0vlSNd-8YKfehCv8lDfr/view?usp=share_link)
 
  ## Tech Tools I Used 🛠;
 
